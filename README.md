@@ -1,3 +1,6 @@
+# NOTES
+
+The bug was found in early december 2020, not by me, but a genius who looked 15mins at fbsd and immediately spotted it 🙇‍♂️. This c++ impl was made when experimenting with increasing exploit reliability after ps5 kernel added some heap randomization features.
 
 # setup vm
 
